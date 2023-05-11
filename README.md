@@ -1,16 +1,19 @@
-### Hi there 👋
 
-<!--
-**Ayushtiwari67/Ayushtiwari67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+👨‍💻 As an app and web developer, I love turning ideas into working software that people can use and enjoy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I'm passionate about building high-quality, scalable applications that solve real-world problems and make people's lives easier.
+
+💻 My skill set includes a wide range of technologies, including front-end frameworks like React and Angular, back-end frameworks like Node.js and Django, and databases like MySQL and MongoDB.
+
+🌐 I'm always learning and staying up-to-date with the latest trends and best practices in the industry, and I love sharing my knowledge with others.
+
+📚 When I'm not coding, you can usually find me reading tech blogs, experimenting with new programming languages, or contributing to open source projects.
+
+🤝 I'm always open to collaborating with other developers and working on exciting new projects, so feel free to get in touch and let's build something great together!
+
+
+
+
+
+
